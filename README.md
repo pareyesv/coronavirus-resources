@@ -2,9 +2,15 @@
 
 ## Data
 
+### Global
+
 - [Our World in Data, from ECDC](https://ourworldindata.org/coronavirus-source-data)
 
-- Related
+### Country
+
+- [Italy](https://github.com/pcm-dpc/COVID-19)
+
+### Related
   - [2019 Global Health Security Index](https://www.ghsindex.org/)
 
 ## Tools

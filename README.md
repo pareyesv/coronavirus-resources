@@ -6,9 +6,11 @@
 
 - [Our World in Data, from ECDC](https://ourworldindata.org/coronavirus-source-data)
 
-### Country
+### By country
 
 - [Italy](https://github.com/pcm-dpc/COVID-19)
+- Spain
+  - [Datadista](https://github.com/datadista/datasets/tree/master/COVID%2019)
 
 ### Related
   - [2019 Global Health Security Index](https://www.ghsindex.org/)

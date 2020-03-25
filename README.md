@@ -27,3 +27,7 @@
 ## Infographics
 
 - [Our World in Data](https://ourworldindata.org/coronavirus)
+
+# Similar projects
+
+- [coronavirus resources, reshamas.github.io](https://reshamas.github.io/coronavirus-resources)

@@ -37,4 +37,4 @@
 
 # Dashboards
 
-- [G. Varoquaux, E. Gouillart, R. Poldrack, G. Lemaitre](https://covid19-dash.github.io/). They share their code to make predictions [code](https://covid19-dash.github.io/modeling_short.html).
+- [COVID-19 Dashboard by G. Varoquaux, E. Gouillart, R. Poldrack, G. Lemaitre](https://covid19-dash.github.io/). They share their code to make predictions [code](https://covid19-dash.github.io/modeling_short.html) and they give empirical confidence intervals.

@@ -34,3 +34,7 @@
 # Similar projects
 
 - [coronavirus resources, reshamas.github.io](https://reshamas.github.io/coronavirus-resources)
+
+# Dashboards
+
+- [G. Varoquaux, E. Gouillart, R. Poldrack, G. Lemaitre](https://covid19-dash.github.io/). They share their code to make predictions [code](https://covid19-dash.github.io/modeling_short.html).

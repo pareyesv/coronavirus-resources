@@ -21,6 +21,7 @@
   - > The raw data pulled from the Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE) Coronavirus
   - filter. aggregate, resample data
   - interactive plots (plotly)
+- [SIR-like Epidemic Calculator](https://gabgoh.github.io/COVID)
 
 ## Models
 

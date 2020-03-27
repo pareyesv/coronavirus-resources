@@ -11,6 +11,8 @@
 - [Italy](https://github.com/pcm-dpc/COVID-19)
 - Spain
   - [Datadista](https://github.com/datadista/datasets/tree/master/COVID%2019)
+- United States
+  - [Data in the United States, NYT](https://github.com/nytimes/covid-19-data)
 
 ### Related
   - [2019 Global Health Security Index](https://www.ghsindex.org/)

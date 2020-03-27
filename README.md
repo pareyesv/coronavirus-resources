@@ -4,7 +4,8 @@
 
 ### Global
 
-- [Our World in Data, from ECDC](https://ourworldindata.org/coronavirus-source-data)
+- [Our World in Data (OWiD), from ECDC](https://ourworldindata.org/coronavirus-source-data)
+- [Tests performed per country, OWiD, HDX](https://data.humdata.org/dataset/total-covid-19-tests-performed-by-country)
 
 ### By country
 

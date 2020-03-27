@@ -8,7 +8,10 @@
 
 ### By country
 
-- [Italy](https://github.com/pcm-dpc/COVID-19)
+- Italy
+  - [COVID-19 Italia - Monitoraggio situazione
+](https://github.com/pcm-dpc/COVID-19)
+  - [Italy: Mobility COVID-19](https://data.humdata.org/dataset/covid-19-mobility-italy)
 - Spain
   - [Datadista](https://github.com/datadista/datasets/tree/master/COVID%2019)
 - United States

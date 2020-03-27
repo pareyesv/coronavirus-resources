@@ -6,6 +6,7 @@
 
 - [Our World in Data (OWiD), from ECDC](https://ourworldindata.org/coronavirus-source-data)
 - [Tests performed per country, OWiD, HDX](https://data.humdata.org/dataset/total-covid-19-tests-performed-by-country)
+- [Global school closures, UNESCO, HDX](https://data.humdata.org/dataset/global-school-closures-covid19)
 
 ### By country
 

@@ -42,6 +42,7 @@
 # Similar projects
 
 - [coronavirus resources, reshamas.github.io](https://reshamas.github.io/coronavirus-resources)
+- [Open-Source-COVID-19](http://open-source-covid-19.weileizeng.com) A global collection of Open Source projects during COVID-19
 
 # Dashboards
 

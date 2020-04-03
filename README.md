@@ -20,6 +20,8 @@
   - [Intro to Analysis & Visualization of COVID19 Spain](https://www.kaggle.com/danigarci1/intro-to-analysis-visualization-of-covid19-spain/notebook). Kaggle notebook
 - United States
   - [Data in the United States, NYT](https://github.com/nytimes/covid-19-data)
+- Chile
+  - [COVID19 Casos confirmados en Chile](https://github.com/itoledor/coronavirus)
 
 ### Related
   - [2019 Global Health Security Index](https://www.ghsindex.org/)

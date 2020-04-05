@@ -30,8 +30,10 @@
 
 - [pycovid](https://github.com/sudharshan-ashok/pycovid)
   - > The raw data pulled from the Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE) Coronavirus
-  - filter. aggregate, resample data
+  - filter, aggregate, resample data
   - interactive plots (plotly)
+- [SEIRS+ Model](https://github.com/ryansmcgee/seirsplus)
+  - > This package implements generalized SEIRS infectious disease dynamics models with extensions that model the effect of factors including population structure, social distancing, testing, contact tracing, and quarantining detected cases. Notably, this package includes stochastic implementations of these models on dynamic networks.
 - [SIR-like Epidemic Calculator](https://gabgoh.github.io/COVID)
 
 ## Models

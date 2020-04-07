@@ -45,11 +45,11 @@
 
 - [Our World in Data](https://ourworldindata.org/coronavirus)
 
-# Similar projects
+## Dashboards
+
+- [COVID-19 Dashboard by G. Varoquaux, E. Gouillart, R. Poldrack, G. Lemaitre](https://covid19-dash.github.io/). They share their code to make predictions [code](https://covid19-dash.github.io/modeling_short.html) and they give empirical confidence intervals.
+
+## Similar projects
 
 - [coronavirus resources, reshamas.github.io](https://reshamas.github.io/coronavirus-resources)
 - [Open-Source-COVID-19](http://open-source-covid-19.weileizeng.com) A global collection of Open Source projects during COVID-19
-
-# Dashboards
-
-- [COVID-19 Dashboard by G. Varoquaux, E. Gouillart, R. Poldrack, G. Lemaitre](https://covid19-dash.github.io/). They share their code to make predictions [code](https://covid19-dash.github.io/modeling_short.html) and they give empirical confidence intervals.

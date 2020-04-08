@@ -22,6 +22,7 @@
 - United States
   - [Data in the United States, NYT](https://github.com/nytimes/covid-19-data)
 - Chile
+  - [Datos-COVID19, Ministerio de Ciencia, Ministerio de Salud](https://github.com/MinCiencia/Datos-COVID19)
   - [COVID19 Casos confirmados en Chile](https://github.com/itoledor/coronavirus)
 
 ### Related

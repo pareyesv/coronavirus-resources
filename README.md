@@ -17,6 +17,9 @@
 ](https://github.com/pcm-dpc/COVID-19)
   - [Italy: Mobility COVID-19](https://data.humdata.org/dataset/covid-19-mobility-italy)
 - Spain
+  > IMPORTANT NOTES
+  > - [Madrid cambia criterio](https://elpais.com/espana/madrid/2020-03-26/el-nuevo-criterio-de-madrid-para-detectar-positivos-de-coronavirus-trampea-la-estadistica-nacional.html)
+  > - [discusión datos UCI](https://elpais.com/espana/madrid/2020-03-26/el-nuevo-criterio-de-madrid-para-detectar-positivos-de-coronavirus-trampea-la-estadistica-nacional.html)
   - [Datadista](https://github.com/datadista/datasets/tree/master/COVID%2019)
   - [Intro to Analysis & Visualization of COVID19 Spain](https://www.kaggle.com/danigarci1/intro-to-analysis-visualization-of-covid19-spain/notebook). Kaggle notebook
 - United States

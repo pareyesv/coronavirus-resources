@@ -24,6 +24,9 @@
 - Chile
   - [Datos-COVID19, Ministerio de Ciencia, Ministerio de Salud](https://github.com/MinCiencia/Datos-COVID19)
   - [COVID19 Casos confirmados en Chile](https://github.com/itoledor/coronavirus)
+- Germany
+  - [COVID-19 case numbers in Germany by state, over time 😷
+](https://github.com/jgehrcke/covid-19-germany-gae)
 
 ### Related
   - [2019 Global Health Security Index](https://www.ghsindex.org/)

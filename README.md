@@ -9,6 +9,7 @@
 - [Global school closures, UNESCO, HDX](https://data.humdata.org/dataset/global-school-closures-covid19)
 - [ACAPS COVID-19: Government Measures Dataset, HDX](https://data.humdata.org/dataset/acaps-covid19-government-measures-dataset)
 - [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
+- [@CoronaSurveys: Monitoring the Incidence of COVID-19 via Open Surveys](https://coronasurveys.org/)
 
 ### By country
 

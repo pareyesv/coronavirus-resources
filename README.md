@@ -48,9 +48,10 @@
   - > This package implements generalized SEIRS infectious disease dynamics models with extensions that model the effect of factors including population structure, social distancing, testing, contact tracing, and quarantining detected cases. Notably, this package includes stochastic implementations of these models on dynamic networks.
 - [SIR-like Epidemic Calculator](https://gabgoh.github.io/COVID)
 
-## Models
+## Models and studies
 
 - [Acción Matemática contra el Coronavirus](http://matematicas.uclm.es/cemat/covid19/pagina-ejemplo/)
+- [COVID-19 PM2.5. A national study on long-term exposure to air pollution and COVID-19 mortality in the United States](https://projects.iq.harvard.edu/covid-pm)
 
 ## Infographics
 

@@ -30,6 +30,7 @@
   - [Data in the United States, NYT](https://github.com/nytimes/covid-19-data)
 - Chile
   - [Datos-COVID19, Ministerio de Ciencia, Ministerio de Salud](https://github.com/MinCiencia/Datos-COVID19)
+  - [COVID19 Datos recolectados por el académico Jorge Pérez](https://github.com/jorgeperezrojas/covid19-data)
   - [COVID19 Casos confirmados en Chile](https://github.com/itoledor/coronavirus)
   - [Camas MINSAL](https://docs.google.com/spreadsheets/d/1qRJOyEkJwx5O6EaID5LVrZ6XMRLqQqURPINNJtmS9pg). Source: [@perez](https://twitter.com/perez/status/1247255128018538497)
 - Germany

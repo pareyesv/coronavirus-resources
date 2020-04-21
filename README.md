@@ -60,9 +60,10 @@
 
 - [Our World in Data](https://ourworldindata.org/coronavirus)
 
-## Dashboards
+## Dashboards / notebooks
 
 - [COVID-19 Dashboard by G. Varoquaux, E. Gouillart, R. Poldrack, G. Lemaitre](https://covid19-dash.github.io/). They share their code to make predictions [code](https://covid19-dash.github.io/modeling_short.html) and they give empirical confidence intervals.
+- [covid-19 UCLM](https://covid19.esi.uclm.es/)
 
 ## Similar projects
 

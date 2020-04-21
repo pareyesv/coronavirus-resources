@@ -40,6 +40,9 @@
 
 ### Related
   - [2019 Global Health Security Index](https://www.ghsindex.org/)
+  - Mobility
+    - [Apple mobility trends](https://www.apple.com/covid19/mobility)
+    - [Google Community Mobility Reports](https://www.google.com/covid19/mobility)
 
 ## Tools
 

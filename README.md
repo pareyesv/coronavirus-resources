@@ -6,7 +6,7 @@
 
 - [Our World in Data (OWiD), from ECDC](https://ourworldindata.org/coronavirus-source-data)
 - [Tests performed per country, OWiD, HDX](https://data.humdata.org/dataset/total-covid-19-tests-performed-by-country)
-- [Tests performed per country (OWID) en formato CSV](https://github.com/owid/covid-19-data/tree/master/public/data/testing)
+- [Tests performed per country, OWID, CSV files](https://github.com/owid/covid-19-data/tree/master/public/data/testing)
 - [Global school closures, UNESCO, HDX](https://data.humdata.org/dataset/global-school-closures-covid19)
 - [ACAPS COVID-19: Government Measures Dataset, HDX](https://data.humdata.org/dataset/acaps-covid19-government-measures-dataset)
 - [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)

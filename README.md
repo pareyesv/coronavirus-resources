@@ -35,8 +35,7 @@
   - [COVID19 Casos confirmados en Chile](https://github.com/itoledor/coronavirus)
   - [Camas MINSAL](https://docs.google.com/spreadsheets/d/1qRJOyEkJwx5O6EaID5LVrZ6XMRLqQqURPINNJtmS9pg). Source: [@perez](https://twitter.com/perez/status/1247255128018538497)
 - Germany
-  - [COVID-19 case numbers in Germany by state, over time 😷
-](https://github.com/jgehrcke/covid-19-germany-gae)
+  - [COVID-19 case numbers in Germany by state, over time 😷](https://github.com/jgehrcke/covid-19-germany-gae)
 
 ### Related
   - [2019 Global Health Security Index](https://www.ghsindex.org/)
@@ -56,7 +55,7 @@
 
 ## Models and studies
 
-- [Acción Matemática contra el Coronavirus](http://matematicas.uclm.es/cemat/covid19/pagina-ejemplo/)
+- [Acción Matemática contra el Coronavirus](http://matematicas.uclm.es/cemat/covid19)
 - [COVID-19 PM2.5. A national study on long-term exposure to air pollution and COVID-19 mortality in the United States](https://projects.iq.harvard.edu/covid-pm)
 
 ## Infographics

@@ -31,6 +31,7 @@
 - United States
   - [Data in the United States, NYT](https://github.com/nytimes/covid-19-data)
 - Chile
+  - [Cifras Oficianles COVID-19, Gobierno](https://www.gob.cl/coronavirus/cifrasoficiales/#datos)
   - [(Nuevo sitio) Datos COVID-19, Ministerio de Ciencia](http://www.minciencia.gob.cl/covid19)
   - [Datos-COVID19, Ministerio de Ciencia, Ministerio de Salud](https://github.com/MinCiencia/Datos-COVID19)
   - [COVID19 Datos recolectados por el académico Jorge Pérez](https://github.com/jorgeperezrojas/covid19-data)

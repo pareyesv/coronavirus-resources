@@ -69,6 +69,7 @@
 
 - [COVID-19 Dashboard by G. Varoquaux, E. Gouillart, R. Poldrack, G. Lemaitre](https://covid19-dash.github.io/). They share their code to make predictions [code](https://covid19-dash.github.io/modeling_short.html) and they give empirical confidence intervals.
 - [covid-19 UCLM](https://covid19.esi.uclm.es/)
+- [Mapa COVID-19, YachayData](http://mapacovid.cl/)
 
 ## Similar projects
 

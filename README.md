@@ -61,15 +61,16 @@
 - [Acción Matemática contra el Coronavirus](http://matematicas.uclm.es/cemat/covid19)
 - [COVID-19 PM2.5. A national study on long-term exposure to air pollution and COVID-19 mortality in the United States](https://projects.iq.harvard.edu/covid-pm)
 
-## Infographics
+## Infographics / dashboards / notebooks
 
-- [Our World in Data](https://ourworldindata.org/coronavirus)
-
-## Dashboards / notebooks
-
-- [COVID-19 Dashboard by G. Varoquaux, E. Gouillart, R. Poldrack, G. Lemaitre](https://covid19-dash.github.io/). They share their code to make predictions [code](https://covid19-dash.github.io/modeling_short.html) and they give empirical confidence intervals.
-- [covid-19 UCLM](https://covid19.esi.uclm.es/)
-- [Mapa COVID-19, YachayData](http://mapacovid.cl/)
+- Global
+  - [Our World in Data](https://ourworldindata.org/coronavirus)
+  - [COVID-19 Dashboard by G. Varoquaux, E. Gouillart, R. Poldrack, G. Lemaitre](https://covid19-dash.github.io/). They share their code to make predictions [code](https://covid19-dash.github.io/modeling_short.html) and they give empirical confidence intervals.
+  - [Mapa COVID-19, YachayData](http://mapacovid.cl/)
+- Spain
+  - [covid-19 UCLM](https://covid19.esi.uclm.es/)
+  - Barcelona
+    - [Seguiment COVID19 a Barcelona](https://dades.ajuntament.barcelona.cat/seguiment-covid19-bcn/)
 
 ## Similar projects
 

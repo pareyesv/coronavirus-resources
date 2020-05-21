@@ -27,7 +27,7 @@
     - [Datadista](https://github.com/datadista/datasets/tree/master/COVID%2019)
     - [Intro to Analysis & Visualization of COVID19 Spain](https://www.kaggle.com/danigarci1/intro-to-analysis-visualization-of-covid19-spain/notebook). Kaggle notebook
   - Related
-    - [Datos de Mortalidad](https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html#datos)
+    - [Datos de Mortalidad](https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html#datos) (See also [Related](#related))
 - United States
   - [Data in the United States, NYT](https://github.com/nytimes/covid-19-data)
 - Chile
@@ -41,10 +41,16 @@
   - [COVID-19 case numbers in Germany by state, over time 😷](https://github.com/jgehrcke/covid-19-germany-gae)
 
 ### Related
-  - [2019 Global Health Security Index](https://www.ghsindex.org/)
-  - Mobility
-    - [Apple mobility trends](https://www.apple.com/covid19/mobility)
-    - [Google Community Mobility Reports](https://www.google.com/covid19/mobility)
+
+- [2019 Global Health Security Index](https://www.ghsindex.org/)
+- Mobility
+  - [Apple mobility trends](https://www.apple.com/covid19/mobility)
+  - [Google Community Mobility Reports](https://www.google.com/covid19/mobility)
+- Mortality
+  - [Source code and data for The Economist's covid-19 excess deaths tracker](https://github.com/TheEconomist/covid-19-excess-deaths-tracker)
+  - [NYT Excess Deaths During the Coronavirus Pandemic](https://github.com/nytimes/covid-19-data/tree/master/excess-deaths)
+  - [Human Mortality Database](https://www.mortality.org/)
+  - [Eurostat weekly deaths across Europe](https://t.co/bzkUAZWjey)
 
 ## Tools
 

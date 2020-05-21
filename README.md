@@ -27,7 +27,7 @@
     - [Datadista](https://github.com/datadista/datasets/tree/master/COVID%2019)
     - [Intro to Analysis & Visualization of COVID19 Spain](https://www.kaggle.com/danigarci1/intro-to-analysis-visualization-of-covid19-spain/notebook). Kaggle notebook
   - Related
-    - [Datos de Mortalidad](https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html#datos) (See also [Related](#related))
+    - [Datos de Mortalidad](https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html#datos) (See [Related](#related))
 - United States
   - [Data in the United States, NYT](https://github.com/nytimes/covid-19-data)
 - Chile
